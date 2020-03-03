@@ -50,6 +50,7 @@ public class Ex05 {
                 }
             }
         }
+        
         String descriptografado = "";
         for (int i = 0; i < palavra.length; i++) {
             descriptografado += palavra[i];
